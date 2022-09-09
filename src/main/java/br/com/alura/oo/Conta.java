@@ -13,6 +13,9 @@ public class Conta {
     }
 
     public Conta(int agencia, Cliente cliente, double saldo) {
+
+        sequencialConta++;
+
         this.agencia = agencia;
         this.cliente = cliente;
         this.saldo = saldo;
