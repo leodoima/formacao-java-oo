@@ -12,8 +12,8 @@ public class TestModal {
 
     public static String validateModal(int number) {
 
-        boolean modal3 = number % 3 == 0 ? true : false;
-        boolean modal5 = number % 5 == 0 ? true : false;
+        boolean modal3 = number % 3 == 0;
+        boolean modal5 = number % 5 == 0;
 
         return (modal3 && modal5) ? "Fizz Buzz" : (modal3) ? "Fizz" : (modal5) ? "Buzz" : String.valueOf(number);
     }

@@ -27,11 +27,10 @@ public class TestConditional {
 
     public static boolean validateEntries(int age, boolean accompanied) {
 
-        boolean accessAuthorization = (age >= 18 || accompanied) ? true : false;
+        return age >= 18 || accompanied;
+    }
 
-        return accessAuthorization;
-
-        /*
+    /*
         Código utilizado anteriormente para este mesmo caso
 
         if (idade >= 18 || acompanhado) {
@@ -39,6 +38,5 @@ public class TestConditional {
         } else {
             return false;
         }
-        */
-    }
+    */
 }
