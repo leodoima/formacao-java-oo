@@ -1,4 +1,4 @@
-package br.com.alura.polimorfismo;
+package br.com.alura.polimorfismo.job;
 
 import java.util.Date;
 
