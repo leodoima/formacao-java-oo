@@ -1,4 +1,4 @@
-package br.com.alura.polimorfismo;
+package br.com.alura.polimorfismo.job;
 
 public class Main {
     public static void main(String[] args) {
