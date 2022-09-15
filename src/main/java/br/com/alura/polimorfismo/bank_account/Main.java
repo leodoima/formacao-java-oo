@@ -18,5 +18,8 @@ public class Main {
         System.out.println(saLeonardo.getBankBranch() + " | " + saLeonardo.getNumberAccount() + " - Balance: " + saLeonardo.getAccountBalance());
 
 
+        Client clientLeonardo = new Client("Leonardo", "leodoima", "456456");
+        System.out.println(clientLeonardo.authenticated("leodoima", "45456"));
+        System.out.println(clientLeonardo.getAuthentication().getLogin());
     }
 }
