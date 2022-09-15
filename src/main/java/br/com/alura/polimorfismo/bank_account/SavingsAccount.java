@@ -2,7 +2,6 @@ package br.com.alura.polimorfismo.bank_account;
 
 public class SavingsAccount extends Account {
 
-
     private static final double TRANSFER_RATE = 0.01;
 
     public SavingsAccount(int bankBranch, String name) {

@@ -13,5 +13,4 @@ public class CheckingAccount extends Account {
 
         return super.withdraw(addedValue) && destinationAccount.deposit(value);
     }
-
 }
