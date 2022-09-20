@@ -1,4 +1,4 @@
-package br.com.alura.parte_1.polimorfismo.bank_account;
+package br.com.alura.parte_1.c_polimorfismo.bank_account;
 
 public abstract interface UserAccess {
 

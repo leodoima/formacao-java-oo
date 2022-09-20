@@ -1,4 +1,4 @@
-package br.com.alura.parte_1.inicio;
+package br.com.alura.parte_1.a_inicio;
 
 import java.util.*;
 

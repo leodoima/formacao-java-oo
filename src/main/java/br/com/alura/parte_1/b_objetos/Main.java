@@ -1,4 +1,4 @@
-package br.com.alura.parte_1.oo;
+package br.com.alura.parte_1.b_objetos;
 
 import java.util.Date;
 

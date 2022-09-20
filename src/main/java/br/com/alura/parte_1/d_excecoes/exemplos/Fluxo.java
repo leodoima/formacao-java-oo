@@ -1,4 +1,4 @@
-package br.com.alura.parte_1.excecoes.exemplos;
+package br.com.alura.parte_1.d_excecoes.exemplos;
 
 public class Fluxo {
 

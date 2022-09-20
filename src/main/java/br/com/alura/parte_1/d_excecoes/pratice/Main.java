@@ -1,4 +1,4 @@
-package br.com.alura.parte_1.excecoes.pratice;
+package br.com.alura.parte_1.d_excecoes.pratice;
 
 public class Main {
     public static void main(String[] args) {

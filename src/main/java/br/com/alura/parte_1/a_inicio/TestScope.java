@@ -1,8 +1,6 @@
-package br.com.alura.parte_1.inicio;
+package br.com.alura.parte_1.a_inicio;
 
 import org.apache.commons.lang3.Range;
-
-import java.lang.reflect.Array;
 
 
 public class TestScope {
