@@ -2,7 +2,7 @@ package br.com.alura.introduction.javaoo_1_start;
 
 /**
  * author: Leonardo dos Santos
- * <p>
+ *
  * Depois de longos anos afastados da linguagem Java, este é meu primeiro código.
  */
 

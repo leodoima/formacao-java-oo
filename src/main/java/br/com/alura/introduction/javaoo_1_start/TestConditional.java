@@ -29,14 +29,4 @@ public class TestConditional {
 
         return age >= 18 || accompanied;
     }
-
-    /*
-        Código utilizado anteriormente para este mesmo caso
-
-        if (idade >= 18 || acompanhado) {
-            return true;
-        } else {
-            return false;
-        }
-    */
 }
